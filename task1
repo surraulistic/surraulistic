@@ -20,5 +20,5 @@ print(type(value3))
 value4 = "Hey!"
 print(type(value4))
 
-value5 = ""
+value5 = None
 print(type(value5))
