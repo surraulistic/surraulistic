@@ -1,6 +1,5 @@
 <img align='right' src="https://media.tenor.com/yl1OxQGcJH0AAAAC/peter-griffin-family-guy.gif" width="300">
 <h2>My name is Raul. I'm a python developer.</h2>
-<p><em></em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcclawdy&layout=compact&theme=gotham&custom_title=Statistics)   -->
@@ -30,16 +29,14 @@
 ## What I'm currently learning 📚
 
 - Kubernetes
-- Jenkins
 - Asynchronous architecture
+  
+You can get in touch with me through the attached links:  
 
-Are you interested in collaboration? I'm up to any inspiring projects.   
-Get in touch with me through the attached links:  
 
-
-<a href="https://t.me/mastersportaposportu">
+<a href="https://t.me/surraulistic">
   <img alt="My telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
 </a>
-<a href="mailto: mcclawdy@gmail.com">
+<a href="mailto: surraulistic@gmail.com">
   <img alt="My email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
