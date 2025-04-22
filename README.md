@@ -1,4 +1,3 @@
-<img align='right' src="https://media.tenor.com/yl1OxQGcJH0AAAAC/peter-griffin-family-guy.gif" width="300">
 <h2>My name is Raul. I'm a python developer.</h2>
 
 
